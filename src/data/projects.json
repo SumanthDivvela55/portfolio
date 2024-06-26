@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HealthNexus",
+    "imageSrc": "projects/Healthnexus.png",
+    "description": "This a Ecommers-project online Medicine app Full stact project",
+    "skills": ["React", "Express", "Node","Redux"],
+    "demo": "https://health-nexus.vercel.app/",
+    "source": "https://github.com/SumanthDivvela55/HealthNexusf"
+  },
+  {
+    "title": "Information Retrieval",
+    "imageSrc": "projects/Truecaller.png",
+    "description": "This Project is a wikipedia based countries and territories search",
+    "skills": ["Python", "Web scraping"],
+    "demo": "https://github.com/SumanthDivvela55/information_retrieval",
+    "source": "https://github.com/SumanthDivvela55/information_retrieval"
+  },
+  {
+    "title": "olympic managment system",
+    "imageSrc": "projects/project.png",
+    "description": "object oriented programming java application based project",
+    "skills": ["Java","MYSQL"],
+    "demo": "https://github.com/SumanthDivvela55/Olympic-management-system",
+    "source": "https://github.com/SumanthDivvela55/Olympic-management-system"
+  }
+]

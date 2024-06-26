@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Hero campus challenge ",
+    "organisation": "season 9",
+    "startDate": "Sept, 2023",
+    "endDate": "",
+    "experiences": ["Participated to complete a give task", "with a team of 3 members"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": " Data structures and algorithms",
+    "organisation": "udemy",
+    "startDate": "May 2023",
+    "endDate": "August 2023",
+    "experiences": ["completed full course with a certificate"],
+    "imageSrc": "history/google.png"
+  }
+]
